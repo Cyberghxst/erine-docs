@@ -1,7 +1,7 @@
 # Plugins
 Erine has plugins available to save you some work when creating commands.
 
-To handle plugins errors, use the `contextError` event, for more information see [Events](../events/).
+To handle plugins errors, use the `contextError` event, for more information see [Events](../events/events.md).
 
 ## Plugin List
 ### Client-oriented plugins
