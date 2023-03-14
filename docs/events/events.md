@@ -41,6 +41,8 @@ const event = {
     // More logic here.
   }
 }
+
+module.exports = { event }
 ```
 
 ### Guild Member Add
@@ -51,4 +53,6 @@ const event = {
     // More logic here.
   }
 }
+
+module.exports = { event }
 ```

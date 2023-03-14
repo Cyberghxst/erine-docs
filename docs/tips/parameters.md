@@ -22,4 +22,6 @@ const body = {
         await context.send(`${context.author.tag} says: ${message}`);
     }
 }
+
+module.exports = { command }
 ```
