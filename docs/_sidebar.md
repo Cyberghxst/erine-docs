@@ -20,6 +20,7 @@
 * [Plugins](plugins/plugins.md)
 
 - **Tips**
+* [Custom Plugins](tips/custom_plugins.md)
 * [Custom Prefixes](tips/prefixes.md)
 * [Cooldown](tips/cooldown.md)
 * [Handlers](tips/handlers.md)
