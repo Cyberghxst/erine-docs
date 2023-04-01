@@ -23,7 +23,7 @@ const body = {
     params: new ParamsBuilder()
       .addMember({ name: 'mymember', description: 'The member', required: true }),
     async code(context) {
-        await context.send({ content: `Pong! ${ctx.author.username}`, ephemeral: true })
+        await context.send({ content: `Pong! ${context.author.username}`, ephemeral: true })
     }
 }
 
