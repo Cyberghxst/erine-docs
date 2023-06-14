@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkerine=self.webpackChunkerine||[]).push([[8980],{2383:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/erine-docs/blog/tags/docusaurus","allTagsPath":"/erine-docs/blog/tags","count":4}')}}]);

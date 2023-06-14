@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkerine=self.webpackChunkerine||[]).push([[2695],{4401:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/erine-docs/blog/tags/hola","allTagsPath":"/erine-docs/blog/tags","count":1}')}}]);
